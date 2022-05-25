@@ -28,9 +28,10 @@ function Header() {
             Contact <div className="underline"></div>
           </li>
         </ul>
-        <ul className="d-flex pt-3 list-unstyled">
-          <li className=" icon1 d-flex justify-content-center align-content-center">
-            <img src={gmail} alt="" />
+        <ul className="d-flex pt-1 list-unstyled">
+          {/* <li className=" icon1 d-flex justify-content-center align-content-center">
+            <a href="https://github.com/">
+            </a>
           </li>
           <li className="ms-4 icon1 d-flex justify-content-center align-content-center">
             <img src={instagram} alt="" />
@@ -40,6 +41,20 @@ function Header() {
           </li>
           <li className="ms-4  icon1 d-flex justify-content-center align-content-center">
             <img src={phone} alt="" />
+          </li> */}
+          <li>
+            <a href="mailto:nikhileshramoliya@gmail.com ">
+              <img className="icon1 ms-0 mx-2" src={gmail} alt="" />
+            </a>
+            <a href="Tel: +918469175299" >
+              <img className="icon1 mx-2" src={phone} alt="" />
+            </a>
+            <a href="https://www.linkedin.com/in/nikhileshramoliya/">
+              <img className="icon1 mx-2" src={linkedin} alt="" />
+            </a>
+            <a href="https://www.instagram.com/niks.patel25/">
+              <img className="icon1 mx-2" src={instagram} alt="" />
+            </a>
           </li>
         </ul>
       </div>
