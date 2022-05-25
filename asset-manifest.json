@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.736a475e.css",
-    "main.js": "/react-gh-pages/static/js/main.6052f36d.js",
-    "static/media/instagram (1).png": "/react-gh-pages/static/media/instagram (1).ac32ec0a111aeba03298.png",
-    "static/media/linkedin (1).png": "/react-gh-pages/static/media/linkedin (1).032cf8a63be2f0f4d425.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.736a475e.css.map": "/react-gh-pages/static/css/main.736a475e.css.map",
-    "main.6052f36d.js.map": "/react-gh-pages/static/js/main.6052f36d.js.map"
+    "main.css": "/Nikhil_resume/static/css/main.736a475e.css",
+    "main.js": "/Nikhil_resume/static/js/main.c6a8b147.js",
+    "static/media/instagram (1).png": "/Nikhil_resume/static/media/instagram (1).ac32ec0a111aeba03298.png",
+    "static/media/linkedin (1).png": "/Nikhil_resume/static/media/linkedin (1).032cf8a63be2f0f4d425.png",
+    "index.html": "/Nikhil_resume/index.html",
+    "main.736a475e.css.map": "/Nikhil_resume/static/css/main.736a475e.css.map",
+    "main.c6a8b147.js.map": "/Nikhil_resume/static/js/main.c6a8b147.js.map"
   },
   "entrypoints": [
     "static/css/main.736a475e.css",
-    "static/js/main.6052f36d.js"
+    "static/js/main.c6a8b147.js"
   ]
 }
