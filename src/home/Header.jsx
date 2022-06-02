@@ -26,7 +26,7 @@ function Header(props) {
             About <div className="underline"></div>
           </li>
             </Link> 
-            <Link to="/Nikhil_resume/about" className="link">
+            <Link to="/Nikhil_resume/services" className="link">
           <li className=" listitem ms-3">
             Service <div className="underline"></div>
           </li>
