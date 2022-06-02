@@ -19,17 +19,17 @@ function About() {
             <div className=" underline"></div>
           </li>
             </Link> 
-            <Link to="/about" className="link">
+            <Link to="/Nikhil_resume/about" className="link">
           <li className=" listitem1 ms-3 ">
             About <div className="underline1"></div>
           </li>
             </Link> 
-            <Link to="/services" className="link">
+            <Link to="/Nikhil_resume/services" className="link">
           <li className=" listitem ms-3">
             Service <div className="underline"></div>
           </li>
             </Link> 
-            <Link to="/contact" className="link">
+            <Link to="/Nikhil_resume/contact" className="link">
           <li className="listitem ms-3">
             Contact <div className="underline"></div>
           </li>
